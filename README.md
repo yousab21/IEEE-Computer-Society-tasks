@@ -21,7 +21,6 @@ I’m applying at the **Beginner level** for this cycle.
 Each task has its own folder.  
 Inside each one, you'll find:
 
-- Submitted code  
-- Documentation or comments explaining the approach  
+- Submitted code   
 - Answers to the technical questions, provided as **.txt files**
 
