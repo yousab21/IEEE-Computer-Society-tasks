@@ -1,0 +1,27 @@
+1.You open Google Chrome → type google.com → press Enter → the website loads. 
+
+- Who is the client?
+
+	the client in this case would be Google Chrome
+
+	 as it is responsible for sending the requests and receiving the response to/from the server
+
+- Who is the server?
+
+	the server in this case would be the Google web server
+
+ 	as it is responsible for receiving the client's request and handling the necessary logic to send the response
+
+- Who is the end-user?
+
+	the end user in this case is me (the user)
+
+	
+
+======================
+
+2. 
+
+-the HTTP method used in this case is "GET" as it is the basic data retrieval method in HTTP
+
+-as the website loads successfully the HTTP status code would be a successful response of "200"

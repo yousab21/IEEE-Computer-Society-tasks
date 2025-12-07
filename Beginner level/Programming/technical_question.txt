@@ -1,0 +1,2 @@
+Q: In programming, what is the part of the code that stores multiple values in an ordered list called?
+A: 3.Array
