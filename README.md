@@ -1,10 +1,27 @@
-## IEEE-Computer-Society-tasks-
-this is the personal repository that I will be uploading my solutions   
-to IEEE Computer Society **back-end** committee's recruitment tasks
+## IEEE-Computer-Society-Tasks
 
-|Category|INfo|
-| ----------- | ----------- |
+This is my personal repository for uploading solutions to the IEEE Computer Society’s **Back-End Committee** recruitment tasks.  
+I’m applying at the **Beginner level** for this cycle.
+
+<br>
+
+## 🧑‍💻 Profile
+
+| Profile | Details |
+|--------|---------|
 | Name | Yousab Nabil |
-| faculty | Engineering |
-| department | Computers and control systems |
-| level | 100 |
+| Faculty | Engineering |
+| Department | Computers and Control Systems |
+| Level | 100 |
+
+<br>
+
+## 🗂 Repository Navigation
+
+Each task has its own folder.  
+Inside each one, you'll find:
+
+- Submitted code  
+- Documentation or comments explaining the approach  
+- Answers to the technical questions, provided as **.txt files**
+
